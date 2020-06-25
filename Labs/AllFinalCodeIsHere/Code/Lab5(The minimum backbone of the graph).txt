@@ -99,7 +99,6 @@ endfunction
 Prim_Matrix=zeros(N,N);
 
 for x=1:1:N//making operations for each element
-
   X_Position = cos(2 * %pi * x / N) * BigRadius + X_O;//calculating coordinates
   Y_Position = sin(2 * %pi * x / N) * BigRadius + Y_O;
 
@@ -188,7 +187,6 @@ for Tick=1:1:N-1
 end
 
 for x=1:1:N//making operations for each element
-
   X_Position = cos(2 * %pi * x / N) * BigRadius + X_O;//calculating coordinates
   Y_Position = sin(2 * %pi * x / N) * BigRadius + Y_O;
 
