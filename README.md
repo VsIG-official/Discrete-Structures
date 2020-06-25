@@ -48,7 +48,7 @@ A_oriented = floor((1.0 - N3*0.02 - N4*0.005 - 0.25)*T)
 
 ## Built With
 
-* [Scilab](https://www.scilab.org/) - The programm
+* [Scilab](https://www.scilab.org/) - The program
 
 ---
 
